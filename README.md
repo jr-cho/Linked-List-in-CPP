@@ -9,7 +9,6 @@ A **linked list implementation** in C++ that allows inserting any data type but 
 - **Efficient memory management** with proper deallocation.
 
 ## 📌 Usage
-### **1. Include the header**
 ```
 git clone https://github.com/jr-cho/Linked-List-in-CPP.git
 
